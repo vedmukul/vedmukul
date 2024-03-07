@@ -5,7 +5,7 @@
     </a>
    </h1>
 
-   <h3 align="center">A passionate Frontend Developer from Kyrgyzstan kg</h3>
+   <h3 align="center">A passionate Data Scientist </h3>
 </div>
 
 
