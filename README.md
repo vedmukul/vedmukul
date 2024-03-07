@@ -13,10 +13,10 @@
 --->
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learing / AI / Data Science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML/AI
 - 📫 You can reach me at mukulved@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: Around 900 commits in 2023
 - ![github contribution grid snake animation](https://raw.githubusercontent.com/vedmukul/vedmukul/output/github-user-contribution.svg)
 
 
