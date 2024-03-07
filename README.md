@@ -17,7 +17,7 @@
 - 📫 You can reach me at mukulved@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Around 900 commits in 2023
-- ![github contribution grid snake animation](https://raw.githubusercontent.com/vedmukul/vedmukul/blob/main/github-user-contribution.svg)
+- ![github contribution grid snake animation](https://github.com/vedmukul/vedmukul/blob/main/github-user-contribution.svg)
 
 
 <!---
