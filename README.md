@@ -5,7 +5,7 @@
 - 📫 You can reach me at mukulved@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ..
-- ![Snake animation](https://github.com/vedmukul/vedmukul/blob/output/github-contribution-grid-snake.svg)
+- ![Snake animation](https://github.com/vedmukul/vedmukul/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 vedmukul/vedmukul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
