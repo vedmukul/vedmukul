@@ -17,7 +17,7 @@
 - 📫 You can reach me at mukulved@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ..
-- ![github contribution grid snake animation](https://raw.githubusercontent.com/vedmukul/vedmukul/output/github-contribution-grid-snake-dark.svg)
+- ![github contribution grid snake animation](https://raw.githubusercontent.com/vedmukul/vedmukul/output/github-user-contribution.svg)
 
 
 <!---
